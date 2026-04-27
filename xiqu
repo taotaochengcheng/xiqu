@@ -1,7 +1,7 @@
 {
 	"spider": "./danmu.jar",
 	"wallpaper": "http://tool.teyonds.com/api/",
-
+    "logo":"./lib/logo.gif",
 	"sites":[    
 	 {
       "key": "hipy_js_一曲肝肠断",
